@@ -1,0 +1,181 @@
+.section2{
+    width: 670px;
+}
+
+input{
+    padding: 0 10px;
+    font-size: 16px;
+}
+
+.section2 .logo{
+    margin: 40px 0;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.dateInput{
+    padding-right: 34px;
+}
+
+.section2 .logo img{
+    width: 40px;
+}
+
+.section2>p{
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.section2 .form{
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.section2 .form .formm{
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+}
+
+.section2 .form .formm div:not(.checkbox) input{
+    width: 320px;
+    border: 1px solid rgb(206, 202, 202);
+    height: 40px;
+    border-radius: 4px;
+    margin-top: 6px;
+}
+
+.section2 .form .formm div p{
+    font-size: 13px;
+}
+
+.section2 .form .form2{
+    position: relative;
+}
+
+.section2 .form .form2 .input2{
+    position: relative;
+}
+
+.section2 .form .form2 .input2 .icon{
+    position: absolute;
+    right: 10px;
+    top: 31px;
+    border-radius: 5px;
+    color: rgb(163, 163, 163);
+}
+
+.section2 .form .form1 .checkbox{
+    display: flex;
+    gap: 10px;
+    font-size: 12px;
+    margin-top: -15px;
+}
+
+.section2 .form .form1 .checkbox a{
+    text-decoration: none;
+    color: rgb(0, 128, 255);
+}
+
+.section2 .form .form1 .checkbox input{
+    color: rgb(227, 225, 225);
+    border-radius: 50px;
+}
+
+.section2 .form .form1 button{
+    height: 40px;
+    border: none;
+    color: white;
+    background-color: rgb(0, 128, 255);
+    border-radius: 5px;
+    margin-top: 15px;
+    cursor: pointer;
+    transition: .3s all;
+}
+
+.section2 .form .form1 button:hover{
+    background-color: rgb(4, 108, 211);
+}
+
+.section2 .form .form2>a{
+    text-decoration: none;
+    color: rgb(0, 128, 255);
+    font-size: 13px;
+    position: absolute;
+    bottom: 123px;
+    right: 0;
+}
+
+.section2 .form .form2 .button{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    border: none;
+    background-color: rgb(48, 48, 48);
+    color: white;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    cursor: pointer;
+    transition: .3s all;
+}
+
+.section2 .form .form2 .button img{
+    width: 20px;
+}
+
+.section2 .form .form2>button:hover{
+    background-color: rgb(29, 28, 28);
+}
+
+.section2 .text{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.section2 .text a{
+    text-decoration: none;
+    color: rgb(0, 128, 255);
+}
+
+.section2 .images{
+    display: flex;
+    gap: 10px;
+    width: 400px;
+    margin-top: 10%;
+    margin-bottom: 15px;
+}
+
+.section2 .images img{
+    width: 130px;
+    height: 40px;
+    bottom: 0;
+    cursor: pointer;
+}
+
+.section2 .form .formm .error{
+    color: rgb(195, 10, 10);
+    position: absolute;
+    margin-top: 2px;
+    font-size: 10px;
+}
+
+.section2 .form .formm .right{
+    color: green;
+    position: absolute;
+    margin-top: 2px;
+    font-size: 10px;
+}
+
+.section2 .form .formm .checkError{
+    margin-top: 20px;
+}
+
+.rememberMe{
+    margin-top: 0 !important;
+}
