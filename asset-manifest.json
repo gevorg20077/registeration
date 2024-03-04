@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/registerr/static/css/main.10fab13b.css",
+    "main.js": "/registerr/static/js/main.180acb4c.js",
+    "static/media/Logo.png": "/registerr/static/media/Logo.42401bdcb626ae26bdbd.png",
+    "static/media/Phone.png": "/registerr/static/media/Phone.adce1d64c2a890cb4e68.png",
+    "static/media/googleLogo.png": "/registerr/static/media/googleLogo.73aa439985ed7420c2a3.png",
+    "index.html": "/registerr/index.html",
+    "main.10fab13b.css.map": "/registerr/static/css/main.10fab13b.css.map",
+    "main.180acb4c.js.map": "/registerr/static/js/main.180acb4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10fab13b.css",
+    "static/js/main.180acb4c.js"
+  ]
+}
